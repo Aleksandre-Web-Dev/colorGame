@@ -1,0 +1,48 @@
+html,body{
+    background-color: white;
+    height: 100%;
+}
+
+.container-fluid{
+padding:0;
+margin:0;   
+}
+
+*{
+    box-sizing: border-box;
+    font-size:18px;
+    color:black;
+}
+
+.btn-action{
+    font-size:18px;
+    color:green;
+    font-weight: 400;
+   
+    padding:6px 12px;
+
+}
+.game{
+    
+    width:100%;
+    
+    margin: 0px;
+}
+
+.game-header{
+    background-color:lightgreen;
+    padding:24px;
+
+}
+
+.game-body-color{
+    
+    width:200px;
+    height: 140px;
+    padding: 24px;
+    margin:12px;
+    border-radius: 24px;
+
+}
+
+
